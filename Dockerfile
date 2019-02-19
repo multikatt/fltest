@@ -1,4 +1,4 @@
-FROM 'python:3.7.1'
+FROM 'python'
 
 ADD . /app
 WORKDIR /app
